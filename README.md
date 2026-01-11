@@ -47,5 +47,4 @@ Ensure you have the latest version of Blender installed. You can download it for
 ## 👤 Author
 **Sthasujan** [GitHub Profile](https://github.com/sthasujan0202)
 
-## 📄 License
-This project is available for use and modification. Please check the repository's license file for specific terms.
+## 📄 [MIT LICENSE](https://github.com/sthasujan0202/3D-Bed-Room-Blender-/blob/main/LICENSE)
